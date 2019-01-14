@@ -1,0 +1,423 @@
+{
+    "code": "success",
+    "error": false,
+    "message": "Successful",
+    "data": [
+        {
+            "theme": "Belongingness & Support",
+            "sentiment": 4.58,
+            "keywords": [
+                {
+                    "word": "ayurveda",
+                    "frequency": 6,
+                    "responses": [ "love to work in ayurveda,moreover learning is good over here", "authentic ayurveda", "Getting knowledge about ayurveda ..", "Just bcuz here m getting more nd more knowledge about ayurveda", "Learning about ayurveda", "Good plateform to do best for ayurveda" ]
+                },
+                {
+                    "word": "supportive",
+                    "frequency": 3,
+                    "responses": [ "very good feeling with manager and supportive person for me emotican send from me by mistake", "Getting good exposure of patients and colleagues are supportive ", "Passion and love for Ayurveda !!! Jiva is a good company to work with , giving good opportunities , all seniors are very supportive and encourage us to grow u more , so for growth this is best company to work with . " ]
+                },
+                {
+                    "word": "growth",
+                    "frequency": 4,
+                    "responses": [ "1.reduce office timing 2.healthy financial growth 3.plan health gurranty for employees like health insurance ", "Knowledge .....carrier growth......", "This organization always thinks about the growth and betterment of organization and employee  too .And always ready to do changes as per need.", "Passion and love for Ayurveda !!! Jiva is a good company to work with , giving good opportunities , all seniors are very supportive and encourage us to grow u more , so for growth this is best company to work with . " ]
+                },
+                {
+                    "word": "learning",
+                    "frequency": 7,
+                    "responses": [ "I am learning treatment here.......n yeah different people from different region can call me and i can treat them", "New learning and guidance", "love to work in ayurveda,moreover learning is good over here", "Ayurveda learning", "Ayurveda learning ", "Only learning. I cannot expect anything else.", "Love to practice Ayurveda and   awsm atmosphere and new learning ." ]
+                },
+                {
+                    "word": "jiva",
+                    "frequency": 3,
+                    "responses": [ "Working in jiva is like working with family such a great success pathway", "Oh sorry we always work here i m happy with jiva", "jiva is the big platforms in all ayurvedic drs.... " ]
+                },
+                {
+                    "word": "patients",
+                    "frequency": 4,
+                    "responses": [ "My work.. Handling patients ", "Variety of patients,good working style ,back up support", "Increasing foot fall of fresh patients as I will get opportunity to treat even more patients and our aim of taking Ayurveda to every home will come true . Apart from this If I get my holidays mentioned in holiday list instead of gaining compensatory off, ", "Getting good exposure of patients and colleagues are supportive " ]
+                },
+                {
+                    "word": "treat",
+                    "frequency": 6,
+                    "responses": [ "I am learning treatment here.......n yeah different people from different region can call me and i can treat them", "Principle based classical customized treatment!! ", "Increasing foot fall of fresh patients as I will get opportunity to treat even more patients and our aim of taking Ayurveda to every home will come true . Apart from this If I get my holidays mentioned in holiday list instead of gaining compensatory off, ", "Treatment aspect....reaching to the pt.... curing so many diseases..... handling so many difficult case which have no cure in allopathic treatment", "To learn better command on ayu drug r treatmnt", "Get some money n about treatment " ]
+                },
+                {
+                    "word": "environment",
+                    "frequency": 3,
+                    "responses": [ "Positive environment", "Work environment ", "As i said before the environment and working style" ]
+                },
+                {
+                    "word": "style",
+                    "frequency": 2,
+                    "responses": [ "Variety of patients,good working style ,back up support", "As i said before the environment and working style" ]
+                },
+                {
+                    "word": "knowledge",
+                    "frequency": 5,
+                    "responses": [ "Ayurveda knowledge and varity of patient", "Getting knowledge and ptnt quantity is satisfied  for our experience", "Getting knowledge about ayurveda ..", "Just bcuz here m getting more nd more knowledge about ayurveda", "This organisation is giving me chance to earn money and also increasing my knowledge and skills day by day" ]
+                },
+                {
+                    "word": "grow",
+                    "frequency": 6,
+                    "responses": [ "1.reduce office timing 2.healthy financial growth 3.plan health gurranty for employees like health insurance ", "I want grow In my career ", "Gd opportunity  to learn..  N to grow ", "Knowledge .....carrier growth......", "This organization always thinks about the growth and betterment of organization and employee  too .And always ready to do changes as per need.", "Passion and love for Ayurveda !!! Jiva is a good company to work with , giving good opportunities , all seniors are very supportive and encourage us to grow u more , so for growth this is best company to work with . " ]
+                },
+                {
+                    "word": "learn",
+                    "frequency": 9,
+                    "responses": [ "I am learning treatment here.......n yeah different people from different region can call me and i can treat them", "New learning and guidance", "love to work in ayurveda,moreover learning is good over here", "Gd opportunity  to learn..  N to grow ", "Ayurveda learning", "To learn better command on ayu drug r treatmnt", "Ayurveda learning ", "Only learning. I cannot expect anything else.", "Love to practice Ayurveda and   awsm atmosphere and new learning ." ]
+                },
+                {
+                    "word": "giving",
+                    "frequency": 2,
+                    "responses": [ "This organisation is giving me chance to earn money and also increasing my knowledge and skills day by day", "Passion and love for Ayurveda !!! Jiva is a good company to work with , giving good opportunities , all seniors are very supportive and encourage us to grow u more , so for growth this is best company to work with . " ]
+                },
+                {
+                    "word": "organization",
+                    "frequency": 1,
+                    "responses": [ "This organization always thinks about the growth and betterment of organization and employee  too .And always ready to do changes as per need." ]
+                },
+                {
+                    "word": "company",
+                    "frequency": 1,
+                    "responses": [ "Passion and love for Ayurveda !!! Jiva is a good company to work with , giving good opportunities , all seniors are very supportive and encourage us to grow u more , so for growth this is best company to work with . " ]
+                }
+            ]
+        },
+        {
+            "theme": "Career Growth",
+            "sentiment": 4.33,
+            "keywords": [
+                {
+                    "word": "feel",
+                    "frequency": 3,
+                    "responses": [ "Becoz m being permoted in just 4 months as well as i feel more confident on my knowledge in ayurveda", "I do feel so becoz jiva is not the platform for earning money but also for knowledge and where knowledge stands opportunities are always there", "Some i feel we are not doctors ! We are cells man bcg managers are says that u r not sell man but actua      lly some time they force to work like sellsman" ]
+                },
+                {
+                    "word": "knowledge",
+                    "frequency": 3,
+                    "responses": [ "Becoz m being permoted in just 4 months as well as i feel more confident on my knowledge in ayurveda", "I do feel so becoz jiva is not the platform for earning money but also for knowledge and where knowledge stands opportunities are always there", "My knowledge of Ayurveda is increasing " ]
+                },
+                {
+                    "word": "ayurveda",
+                    "frequency": 1,
+                    "responses": [ "Becoz m being permoted in just 4 months as well as i feel more confident on my knowledge in ayurveda" ]
+                }
+            ]
+        },
+        {
+            "theme": "Company Vision",
+            "sentiment": 4.50,
+            "keywords": [
+                {
+                    "word": "treatment",
+                    "frequency": 11,
+                    "responses": [ "working on line of treatment", "Best line of treatment", "personalize ayurved treatment", "Give best treatment.. ", "Giving ayurveda treatment to all people", "To give Ayurveda treatment to everybody ", "Providing authentic and personalized ayurvedic treatment for patients ", "Pure and effective Ayurvedic treatment for the society....", "Giving good treatment due to this sometimes we have stress", "Tentetive form should be available sothat if pt not teking meficine than cacellation rate will be come down and if mrc send any pt to clinic for treatment  than  50 percent should ger to mrc candidates who has given adress to clinic ", "It was written in book which i saw at time of joining ,but reality is not the same, till the time everything will be decided by sale team (like pratice treatment, etc),nobody eould " ]
+                },
+                {
+                    "word": "patients",
+                    "frequency": 10,
+                    "responses": [ "availability of no.of patients", "Very systematic approach in all things from interview to clinic. Very nice software created for doctors for patients records. ", "Broad level reach to patients", "Reaching to needy patients who are located far away", "Its good to reach to all needy patients ", "satisfied patients ", "To tret the patients with tradition way...and take the ayurveda in every home", "Increase About knowledge of Ayurveda which can tell properly to patients that can help increases goals of company", "Providing authentic and personalized ayurvedic treatment for patients ", "View is clear about jiva goal but implementation and information about jiva village progress are not properly updated timely. I AM well allinged with jiva views about ideology of Jiva for patients health. " ]
+                },
+                {
+                    "word": "company",
+                    "frequency": 6,
+                    "responses": [ "Professional Approach of company and familiar environment ", "Authentic company  ", "No 1 ayurveda spport company", "Increase About knowledge of Ayurveda which can tell properly to patients that can help increases goals of company", "That company is really succeeding in taking authentic ayurveda to every home even in villages.", "When sources are reduced then company goal should be shift lower according to that .. but now a days as sources are less company is increasing the goal .. this plan is not clearly understood to me .." ]
+                },
+                {
+                    "word": "ayurveda",
+                    "frequency": 32,
+                    "responses": [ "Taking ayurveda to every person in world", "Every  home in ayurveda and haldy India and Economy grourh", "Spreading authentic ayurveda", "To bring back ayurveda in the main stream line of medicines", "To take ayurveda to every home", "Taking othentic ayurveda to every home", "Door to door reach ayurveda,", "Aunthetic ayurveda", "Taking ayurveda to every home", "To make people understand about the science behind ayurveda", "Creating awareness about ayurveda", "About Ayurveda.. really we work for ayurveda no body is working for Ayurveda every one working for money but jiva is works for authentic Ayurveda ", "classical and authentic ayurveda practice", "Mission ayurveda ", "Authentic ayurveda", "To tret the patients with tradition way...and take the ayurveda in every home", "Giving ayurveda treatment to all people", "Good work in ayurveda industry", "I llike the most number of consultation and ayurveda ko ghar ghar tak pahuchana logo ki routine ko achccha banana", "Taking ayurveda to every person", "To reach ayurveda at every home", "No 1 ayurveda spport company", "Our goal is mainly ayurveda should be reach to every home of our india with allover world", "Spreading my ayurveda successfully ", "To get rid of diseases  with complete  ayurveda.", "Authentic ayurveda to every home...", "That company is really succeeding in taking authentic ayurveda to every home even in villages.", "To spread ayurveda in each and every home, rest all goals are related to sale i feel now,  i am working in jiva still as we doing authentic ayurveda peactive, ", "Company is spreading ayurveda worldwide with sincere efforts.", "To take ayurveda to single household and to every single person. ", "We focus on the authentic ayurveda practice ", "Taking ayurveda to every home" ]
+                },
+                {
+                    "word": "jiva",
+                    "frequency": 5,
+                    "responses": [ "About Ayurveda.. really we work for ayurveda no body is working for Ayurveda every one working for money but jiva is works for authentic Ayurveda ", "jiva is the best way to succes ", "Jiva me meri koi apni phchan ho jo mere name se jani jaye  mene apne courier me jo khoya jiva me mujhe vo vapas diya hai usi chij ko  lekar me apne courier me  satisfaed hona chahati hu", "To spread ayurveda in each and every home, rest all goals are related to sale i feel now,  i am working in jiva still as we doing authentic ayurveda peactive, ", "View is clear about jiva goal but implementation and information about jiva village progress are not properly updated timely. I AM well allinged with jiva views about ideology of Jiva for patients health. " ]
+                },
+                {
+                    "word": "reach",
+                    "frequency": 8,
+                    "responses": [ "Door to door reach ayurveda,", "Broad level reach to patients", "Company is going forward to reach the people n giving them proper n qualitative assistance", "Its good to reach to all needy patients ", "I think which Jiva wants like ghar ghar Ayurveda reach we will be able to fulfill ", "To reach ayurveda at every home", "Our goal is mainly ayurveda should be reach to every home of our india with allover world", "Yes we Really trying about to reach Ayurveda to every home of india" ]
+                },
+                {
+                    "word": "goal",
+                    "frequency": 7,
+                    "responses": [ "They r vry passionate about their goal and vision", "Not unclear but i am doing my better but i cannt understand why m not achieving my goal", "Our goal is mainly ayurveda should be reach to every home of our india with allover world", "Increase About knowledge of Ayurveda which can tell properly to patients that can help increases goals of company", "To spread ayurveda in each and every home, rest all goals are related to sale i feel now,  i am working in jiva still as we doing authentic ayurveda peactive, ", "When sources are reduced then company goal should be shift lower according to that .. but now a days as sources are less company is increasing the goal .. this plan is not clearly understood to me ..", "View is clear about jiva goal but implementation and information about jiva village progress are not properly updated timely. I AM well allinged with jiva views about ideology of Jiva for patients health. " ]
+                },
+                {
+                    "word": "doctors",
+                    "frequency": 6,
+                    "responses": [ "We have a team of highly talented doctors.. & so much to learn here.. Quite peaceful", "Very systematic approach in all things from interview to clinic. Very nice software created for doctors for patients records. ", "We want more doctors in mrc", "More doctors in mrc ", "Whenever some new medicine or product is launched I am unaware about it so not able to answer doctors query regarding same. And leave policies from HR ", "Advertising and doctors satisfaction towards  theeir work" ]
+                },
+                {
+                    "word": "home",
+                    "frequency": 20,
+                    "responses": [ "Taking Ayurveda to every home.", "Every  home in ayurveda and haldy India and Economy grourh", "To take ayurveda to every home", "Taking othentic ayurveda to every home", "Taking ayurveda to every home", "Reaching Ayurveda at every home", "Taking Ayurveda of every home.....  And is really working....  Because of MRC it is possible to introduce Ayurveda to those areas also where people are really unaware about the Ayurveda. Congratulations to Jiva for this ???? ", "To tret the patients with tradition way...and take the ayurveda in every home", "Ayurveda to everyhome", "To reach ayurveda at every home", "Our goal is mainly ayurveda should be reach to every home of our india with allover world", "Yes we Really trying about to reach Ayurveda to every home of india", "Ayurveda in each and every home", "Authentic ayurveda to every home...", "That company is really succeeding in taking authentic ayurveda to every home even in villages.", "To spread ayurveda in each and every home, rest all goals are related to sale i feel now,  i am working in jiva still as we doing authentic ayurveda peactive, ", "Taking ayurved at every home", "Taking aayurved to every home.", "Taking ayurveda to every home", "Ayurveda at every home....definitely" ]
+                },
+                {
+                    "word": "time",
+                    "frequency": 5,
+                    "responses": [ "Sometimes incentives ", "Salary comes on time", "Giving good treatment due to this sometimes we have stress", "View is clear about jiva goal but implementation and information about jiva village progress are not properly updated timely. I AM well allinged with jiva views about ideology of Jiva for patients health. ", "It was written in book which i saw at time of joining ,but reality is not the same, till the time everything will be decided by sale team (like pratice treatment, etc),nobody eould " ]
+                }
+            ]
+        },
+        {
+            "theme": "Culture",
+            "sentiment": 4.46,
+            "keywords": [
+                {
+                    "word": "salary",
+                    "frequency": 11,
+                    "responses": [ "Ayurvedic culture, systemetic data updation of everything, salary on time, incentive, week off reliability, good opportunity to learn in a familiar environment.", "1.Very systematic, New conception telephonic consultation, good follow up system, verity of cases, salary on time, team work etc", "Cleanliness,timely salary,good increment, good work environment", "Infra structure, salary descrimination, career growth opportunities etc", "Doctors should gets more priority in this organization compare to area managers., employees must be s      table in a perticular clinic, higher number of employees are quiting, salary should be satisfactory", "Like raise in target we want raise in salary then its better to work happily.", "I have already given the suggestions. Here Jiva is just thinking about company, not for the employes. Salary  audit should be done. Who is getting how much salary for what kind of work.", "Improve salary structure and provide better facility at other MRC center like we dont have canteen facility at indore", "Target increase so plz salary Bhi increase hona chaiye ", "I am working here as i wanted to do ayurveda practice, rest nothing will change , if u ask about salary hike and disparity in increment , i am sure nobody will listen and so many to explain , being expressive is surely a negative thing in orgamization ,th", "Good salary structure and better way to talk with employees" ]
+                },
+                {
+                    "word": "target",
+                    "frequency": 25,
+                    "responses": [ "Canteen issue , increment issue , extra days bench mark issue, target issue , ", "Feels pressure due to target it should be fix", "Improve managment system...,give adequate respect to doctors..,target pressure become decrease so mental tension will decreases ", "drs ki target  badate hi  improve hota jayega", "Jyada kuch nhi, keval target increase kare, improve hota jayega", "Respect of dr.,decrease target so mental tension become decreases ", "Incentive fr sr base target raised so high,with good you earn less.more with 2 dr ,performaning dr suffers for other.this should n must be shorted out", "Its mainely a target based profile.. it should focus more on treatment than target i guess.. how many patients are actually getting healed rather than how many patients are taking treatment.", "Salary at least increase if Dr promoted from one rank to other rank why only target increase ?", "only target", "Only target", "No target ", "Less load of targets for sales .", "By giving doctors a better more friendly environment. Without pressurising to complete targets that s too high to achieve. Priority should b on equality to all", "Like raise in target we want raise in salary then its better to work happily.", "To give free invironment of work culture not pressure of targets and all", "target ke saath saath  dr feculty", "Release target", "Improve dr. Count.., decrese target", "when we are at jiva, we have to focus on achieving targets more than treating pt. due to increasing targets, ", "Face to face consultation and no target ", "By reducing target stress on emplyee .. and implimantations on these suggestions written by us on this app .. ", "It would be better if you could channelise doctors positive points into sumthing which is both encouraging to the doctor and beneficial for the company. Making doctors feel burdened with un-realistic targets, just because he/she have given their best in t", "Achieving target becomes priority at times that might affect core goal ", "Keval target badane se  drs ko under pressure rhta he,, " ]
+                },
+                {
+                    "word": "clinic",
+                    "frequency": 12,
+                    "responses": [ "Interior of clinic as per ayurvedic furnishing ideas can be improved.  Most important thing is each clinic can be attached with panchakarma centre.  ", "jiva sansthan ko ab small district me BHI self clinic open karna chahiye.taki jiva ki drugs har person tak pahuche  ", "Need more jiva clinics ", "Salary, incentives policy, specialist doctors visit to every clinic s", "Change of clinic timings is not suited to patients and doctors . Previous timings was much better , I think so.  ", "Our clinic is on the first floor and in the outer model town, there are no direction arrows so patients sometimes finds it difficult to reach to us.some patients argue medine name is not readable on the aushadhi churna and tablets.", "Pt ko problm hoti h online consultation se setisfied nhi ho pate apoinment lekr nearest center pr bulaya jae and jb pt call krta h to asistent calls ko filter kr k he aarange kre home remady h ya clinic consultation h ya tretment krwana h or tretment cost", "There is no participation of doctor in discussion,non_medicos related to sale team plan each and everything (even regarding related to doctor), our organization says doctors are most important part of jiva clinic,but it never reflect anywhere, we the doct", "Doctors should gets more priority in this organization compare to area managers., employees must be s      table in a perticular clinic, higher number of employees are quiting, salary should be satisfactory", "Devide working hour in 2 shifts, deliver medicine to patients on time and get more secure atmosphere for female dr in mrc and clinics", "Increased no. Of dr... n.. giving opportunity for clinic consultation also for mrc dr.", "Impotant festival holiday leaves for more time spend with family...clinic is open even on 15 August." ]
+                },
+                {
+                    "word": "doctors",
+                    "frequency": 26,
+                    "responses": [ "quite peacuful .. talented doctors are here... we have so much to learn here", "The best consultation is giving to patient in this organization by doctors, i have never seen this m      uch patient education, &follow up importance,  any other doctor giving outside", "Working hours according to me and discussion with other doctors.", "Training for doctors", "Positive attitude of auditors to senior managers , co ordination with ayureda and technology ,. Good opportunities for fresh year doctors also. Nd complete support by  manager doctors", "It is good platform for doctors ", "good nature of all doctors ", "our connection to the pt.  The knowledge enhancing schedules for doctors.   and the helping brains for fresh doctors.", "Well cultured and good behave all of doctors and manaegemnt ", "The extensive research done over the years in the organisation has enable the doctors to find the best suitable medicines for various disease, giving patients sustained relief and doctors an opportunity to help the mankind. ", "More good facilities for doctors ..in terms of  increased payscale ", "Fist of all Work on improvement that you want but actually no improvement i see. There must be better hygiene condition, if doctors cant eat lunch in A.C then why other workers do in A.C, there must be a resting room if someone not feeling good, increase ", "Improve managment system...,give adequate respect to doctors..,target pressure become decrease so mental tension will decreases ", "the MRC doctors are not allowed to get promoted as Clinic doctors. the deserving one should be promoted.", "Salary, incentives policy, specialist doctors visit to every clinic s", "Change of clinic timings is not suited to patients and doctors . Previous timings was much better , I think so.  ", "I have raised doctors,concern multiple time to everyconcern and high authority but nothing happend , even i feel it is more negative now,so will not say anything,if you raised concern ,only get negative image in organization", "Everything is decided and controlled by non medicos, even mail regarding change in dose of churn is not send to doctors.... Clinic should work as a team of doctors..", "There is no participation of doctor in discussion,non_medicos related to sale team plan each and everything (even regarding related to doctor), our organization says doctors are most important part of jiva clinic,but it never reflect anywhere, we the doct", "Involvement and power of doctors should be increased, there should be proper platform where a doctor can raise his concerns and get satisfactory answer..... There should be proper and tranparant growth parameters....", "By giving doctors a better more friendly environment. Without pressurising to complete targets that s too high to achieve. Priority should b on equality to all", "If  employees tenure and seniority  related some extra benefits apply for saperatelly not be like new comer doctors ", "Because here very good doctors and  all facilities are nice", "As only chavan sir cannot do everything so a senior doctors team should be made to conduct tv shows, interviews etc. So it will increase our shows then calls and patients too.  For our employees there should be relaxation too, so picnic tours should be or", "Taking care of other staffs too other than jiva doctors", "It would be better if you could channelise doctors positive points into sumthing which is both encouraging to the doctor and beneficial for the company. Making doctors feel burdened with un-realistic targets, just because he/she have given their best in t" ]
+                },
+                {
+                    "word": "treatment",
+                    "frequency": 12,
+                    "responses": [ "Persnalised treatment", "I learned a lot about treatment and diseases", "Number of treatment is good. Here in jiva we can consulted many patient compared to other ayurveda practice", "Kuki suddh ayurvedic treatment hota hai . Yaha bada pyar bhara mahol hi ", "Redom for  choice of meficine  variety of pstient have bedn seen  learn fun And sharing of knowledge  ayurvedic way  of treatment ", "Jiva ayurveda is working with traditional and real ayurveda with personalised treatment..", "Target ko focus na kr k pt ki requirment and conditions k anusaar treatment hona chaiye or medicin ka cost pt ko jyada lgta h ", "Improvement in training pattern   more session  for new disease treatment  arrange skme lecyures of dr pratsp chauhsnd  lectures gor drs  for new diseases and their ltrestment    ", "Have the use the churned vast knowlage of the patient data base regarding the treatment protocol of the most disease as per patient improvement in their perticuler disease condition and stage..so that we all take jiva to a new hight in this era..with auth", "Line of treatment according to classical system. ", "Its mainely a target based profile.. it should focus more on treatment than target i guess.. how many patients are actually getting healed rather than how many patients are taking treatment.", "Not really because we are not sure that pt wil taking good treatment or not  because we Believe in histry of pt what he is saying may be telling lie so we not not completly setisfied about treatment and its resuls" ]
+                },
+                {
+                    "word": "time",
+                    "frequency": 22,
+                    "responses": [ "Hmmm, first of all seniors are really supportive here , no one gets irritate, no matter how many times we ask for anything and secondly and most importantly the working enviornment and culture is safe and protective for women mean there could never be any", "Ayurvedic culture, systemetic data updation of everything, salary on time, incentive, week off reliability, good opportunity to learn in a familiar environment.", "Good Atmosphere of surroundings and get sallary on time ", "1.Very systematic, New conception telephonic consultation, good follow up system, verity of cases, salary on time, team work etc", "I get Salary always on time", "Cleanliness,timely salary,good increment, good work environment", "Salary of each & every person who spends her precious time keeping small child at day boarding", "Duration of duty hour that 9 hrs is to long ideal time is 8 hour because  we reach the home up to 8pm so it is long time ", "System  was very low most of time", "I have raised doctors,concern multiple time to everyconcern and high authority but nothing happend , even i feel it is more negative now,so will not say anything,if you raised concern ,only get negative image in organization", "Work time should be 8 hours including lunch and tea breaks????????", "Our clinic is on the first floor and in the outer model town, there are no direction arrows so patients sometimes finds it difficult to reach to us.some patients argue medine name is not readable on the aushadhi churna and tablets.", "There should be medicines available all the time", "1st see who employees work honestly but because of some issue he.left but when he.left jiva at that time jiva is not showing any curicity .     Who employees is gv full attention but after a small reason he left..try to stop this", "Some time i thought its like atiyoga of karnendriya  ", "Plz asked time to time Doctors problems and give solution ", "Devide working hour in 2 shifts, deliver medicine to patients on time and get more secure atmosphere for female dr in mrc and clinics", "Its better feel to work in jiva some improvement like time of working hrs can be reduced and for that efficiency of work can increase ", "We can work here without any pressure of organisation we can receive all benifits in time.", "Impotant festival holiday leaves for more time spend with family...clinic is open even on 15 August.", "Achieving target becomes priority at times that might affect core goal ", "Some times i feel unnecessay task has been given which not required at this stage." ]
+                },
+                {
+                    "word": "disease",
+                    "frequency": 10,
+                    "responses": [ "Best thing is about to learn so many things from jiva. Like pt. Handling. And watching so many different type of disease pt.", "I learned a lot about treatment and diseases", "Because we are learning here that how ti treat some rare diseases which cant treat by allopathic drs", "In this organisation, we r able to get into the depth  of that particular  disease, so that we can work  on the root cause of that disease.", "The extensive research done over the years in the organisation has enable the doctors to find the best suitable medicines for various disease, giving patients sustained relief and doctors an opportunity to help the mankind. ", "Improvement in training pattern   more session  for new disease treatment  arrange skme lecyures of dr pratsp chauhsnd  lectures gor drs  for new diseases and their ltrestment    ", "Some more medicines should be added in products,so that we can easily handle some short duration diseases in low budget.", "Have the use the churned vast knowlage of the patient data base regarding the treatment protocol of the most disease as per patient improvement in their perticuler disease condition and stage..so that we all take jiva to a new hight in this era..with auth", "Short Group discussion on a disease should be there wid a free feeling, working hours should be less", "By giving much better relief in incurable disease" ]
+                },
+                {
+                    "word": "pt",
+                    "frequency": 23,
+                    "responses": [ "Jada se jada pt thik ho rhe hai", "Team work and adopting various methods to link new people with Jiva and taking proper care of old patients so that Taking Ayurveda at every home holds true.", "Ttment part of the pts", "Best thing is about to learn so many things from jiva. Like pt. Handling. And watching so many different type of disease pt.", "We are doing our own prescription not preformulated medicine like another pharmacy.. We have freedom to work efficiently ", "They offer freedom of thinking regarding prescription. Propagation of Aayuyrved in real way", "There are quality of pt ", "Numbers of pt talking", "System & Concept ", "free handel for Prescription writing and Management And Dr.chouhan sir", "our connection to the pt.  The knowledge enhancing schedules for doctors.   and the helping brains for fresh doctors.", "1.Very systematic, New conception telephonic consultation, good follow up system, verity of cases, salary on time, team work etc", "In this organisation, we r able to get into the depth  of that particular  disease, so that we can work  on the root cause of that disease.", "Prompt response to every problem whether its related to patients or to the staff.", "billing amount will.sent on pt.mob.no.also while he /she purchase the medicine aur product", "I want if any pt who genuinly consultation of dr should be filtered first ", "Always problem about server down and voice not clear during talking to pt so pt become irritated", "Target ko focus na kr k pt ki requirment and conditions k anusaar treatment hona chaiye or medicin ka cost pt ko jyada lgta h ", "Camping and resources to generate pt", "Pt ko problm hoti h online consultation se setisfied nhi ho pate apoinment lekr nearest center pr bulaya jae and jb pt call krta h to asistent calls ko filter kr k he aarange kre home remady h ya clinic consultation h ya tretment krwana h or tretment cost", "when we are at jiva, we have to focus on achieving targets more than treating pt. due to increasing targets, ", "Not really because we are not sure that pt wil taking good treatment or not  because we Believe in histry of pt what he is saying may be telling lie so we not not completly setisfied about treatment and its resuls", "Many pt. Handling and knowledge updating with sr. Dr" ]
+                },
+                {
+                    "word": "dr",
+                    "frequency": 24,
+                    "responses": [ "Support from all my colleague and specially my psm dr khusboo.", "Ist of all am ayurvedic dr of course field which gives you exposure in exploring ayurveda", "Because we are learning here that how ti treat some rare diseases which cant treat by allopathic drs", "Work for Ayurveda,dr.pratap sir,team work", "Target scheeme should be organise according to calls  and  dr. Are bones so   they should be healthy forst", "Salary,  dr..  Education ", "Quick response for a single problem of drs.", "jiva sansthan ko ab small district me BHI self clinic open karna chahiye.taki jiva ki drugs har person tak pahuche  ", "drs ki target  badate hi  improve hota jayega", "Every dr discuss cure case ", "Respect of dr.,decrease target so mental tension become decreases ", "I want if any pt who genuinly consultation of dr should be filtered first ", "Improvement in training pattern   more session  for new disease treatment  arrange skme lecyures of dr pratsp chauhsnd  lectures gor drs  for new diseases and their ltrestment    ", "Incentive fr sr base target raised so high,with good you earn less.more with 2 dr ,performaning dr suffers for other.this should n must be shorted out", "Saperate dr cabin", "Jiva ki drug store har distric me available honi chahiye", "Some time i thought its like atiyoga of karnendriya  ", "Devide working hour in 2 shifts, deliver medicine to patients on time and get more secure atmosphere for female dr in mrc and clinics", "Increased no. Of dr... n.. giving opportunity for clinic consultation also for mrc dr.", "target ke saath saath  dr feculty", "Good plateform for new dr .we need to work on infra  ", "Improve dr. Count.., decrese target", "By adding some activity like tour/picbic for dr, cin or together.we can strengthen the bond in between.Work pressure is there but release it some thing can be done. N appraisal should be good for those who perform well atleast with increasing inflation,it", "Keval target badane se  drs ko under pressure rhta he,, " ]
+                },
+                {
+                    "word": "patients",
+                    "frequency": 16,
+                    "responses": [ "Team work and adopting various methods to link new people with Jiva and taking proper care of old patients so that Taking Ayurveda at every home holds true.", "The no of patients", "Puncuality, dedication and the way that you counsult patients", "Authentic ayurveda practice and patients exposure is good", "The extensive research done over the years in the organisation has enable the doctors to find the best suitable medicines for various disease, giving patients sustained relief and doctors an opportunity to help the mankind. ", "Prompt response to every problem whether its related to patients or to the staff.", "In our organization/plateform...i like much its way of tackling d follow up of patients & also ds s d only ayurvedic platform where i can get a lot of exposure & cases from different patients for our Grooming of knowledge", "no relief cases of patients ", "Change of clinic timings is not suited to patients and doctors . Previous timings was much better , I think so.  ", "I need Panchakarma and kshar sutra center here for better relief of patients.", "Our clinic is on the first floor and in the outer model town, there are no direction arrows so patients sometimes finds it difficult to reach to us.some patients argue medine name is not readable on the aushadhi churna and tablets.", "Jiva ayurveda added some naturopathy result orientated techniques like mud pack for obese patients and many more benefits. ", "Its mainely a target based profile.. it should focus more on treatment than target i guess.. how many patients are actually getting healed rather than how many patients are taking treatment.", "By doing good behavior to the patients ", "Devide working hour in 2 shifts, deliver medicine to patients on time and get more secure atmosphere for female dr in mrc and clinics", "As only chavan sir cannot do everything so a senior doctors team should be made to conduct tv shows, interviews etc. So it will increase our shows then calls and patients too.  For our employees there should be relaxation too, so picnic tours should be or" ]
+                },
+                {
+                    "word": "jiva",
+                    "frequency": 23,
+                    "responses": [ "Honesty and hardwork and  jiva given me a lotof respect", "I m working at jiva because i have gain more knowledge about ayurveda .", "Best thing is about to learn so many things from jiva. Like pt. Handling. And watching so many different type of disease pt.", "Number of treatment is good. Here in jiva we can consulted many patient compared to other ayurveda practice", "Good behavior of all members of jiva", "Very good behavior of all jiva members ", "Supportiveness of jiva management ", "In jiva we have a great working environment with best carrier growth and pay scale.", "We are doing authentic ayurveda practice,i wanted to do ayurvedic practice only, thats why still working in jiva", "jiva sansthan ko ab small district me BHI self clinic open karna chahiye.taki jiva ki drugs har person tak pahuche  ", "Need more jiva clinics ", "Have the use the churned vast knowlage of the patient data base regarding the treatment protocol of the most disease as per patient improvement in their perticuler disease condition and stage..so that we all take jiva to a new hight in this era..with auth", "One of my friend left jiva 3 months ago a      nd he left with all formalities done by him.he has completed his notice period too.", "One of my friend left jiva 3 months ago and he left with all formalities done by him.he has completed his notice period too.", "There is no participation of doctor in discussion,non_medicos related to sale team plan each and everything (even regarding related to doctor), our organization says doctors are most important part of jiva clinic,but it never reflect anywhere, we the doct", "1st see who employees work honestly but because of some issue he.left but when he.left jiva at that time jiva is not showing any curicity .     Who employees is gv full attention but after a small reason he left..try to stop this", "Already jiva is a better place ", "Everyone should be asked for their probem regarding working in jiva at regular interval", "when we are at jiva, we have to focus on achieving targets more than treating pt. due to increasing targets, ", "Its better feel to work in jiva some improvement like time of working hrs can be reduced and for that efficiency of work can increase ", "Taking care of other staffs too other than jiva doctors", "I think jiva is already a better place to work..to be a better  place it should be complementary, oriented, supportive and productive... ", "I think there is 5 keys to make jiva a great place to work. 1. Employee input, 2 employee empowerment, 3. Excellent communication between managment and staff. 4A sense of family among team members, 5 recognition and appreciation to honor good work" ]
+                },
+                {
+                    "word": "employees",
+                    "frequency": 9,
+                    "responses": [ "Medical  wark, employees everything", "1st see who employees work honestly but because of some issue he.left but when he.left jiva at that time jiva is not showing any curicity .     Who employees is gv full attention but after a small reason he left..try to stop this", "By providing comfortable chairs, making transport facility available and may be having health insurance for employees, adding sick leaves with EL snd CL ", "Doctors should gets more priority in this organization compare to area managers., employees must be s      table in a perticular clinic, higher number of employees are quiting, salary should be satisfactory", "If  employees tenure and seniority  related some extra benefits apply for saperatelly not be like new comer doctors ", "As only chavan sir cannot do everything so a senior doctors team should be made to conduct tv shows, interviews etc. So it will increase our shows then calls and patients too.  For our employees there should be relaxation too, so picnic tours should be or", "Good to hear from employees and trust on themselves. ", "Good salary structure and better way to talk with employees", "Because company is not doing satisfactory efforts for employees..something is lagging behind." ]
+                },
+                {
+                    "word": "environment",
+                    "frequency": 15,
+                    "responses": [ "Pt consultation & here environment", "working environment is very friendly, co operative and helpful... feels like home away from home", "Good working environment ", "Friendly environment", "Systematic ways of work.. a good working environment.. ", "Healthy co-operative environment ", "Working environment is good. PSM support is good.", "Ayurvedic culture, systemetic data updation of everything, salary on time, incentive, week off reliability, good opportunity to learn in a familiar environment.", "Good environment and learning Ayurveda  pathi", "In jiva we have a great working environment with best carrier growth and pay scale.", "Great environment for work freely", "First of all the brand name and its hoal speaks a lot. Working environment is really good. And most importantly it gives as an exposure like nobody else.", "Cleanliness,timely salary,good increment, good work environment", "Make environment more friendly", "By giving doctors a better more friendly environment. Without pressurising to complete targets that s too high to achieve. Priority should b on equality to all" ]
+                },
+                {
+                    "word": "organisation",
+                    "frequency": 6,
+                    "responses": [ "An organisation which is stabilized Ayurveda platform and growth equally ", "In this organisation, we r able to get into the depth  of that particular  disease, so that we can work  on the root cause of that disease.", "This organisation work on the theme of authentic Ayurveda with good technology input in the system along with data management and good, honest work to treat the patient, which give the patient  a new hope to be healthy again even if it is incurable accord", "The extensive research done over the years in the organisation has enable the doctors to find the best suitable medicines for various disease, giving patients sustained relief and doctors an opportunity to help the mankind. ", "Its already a splendid  organisation to work.", "We can work here without any pressure of organisation we can receive all benifits in time." ]
+                },
+                {
+                    "word": "team",
+                    "frequency": 13,
+                    "responses": [ "Quality,team workand coordination", "More communication with team.", "learning phase.,, and support my all team managers", "co-operation of all team members ", "Dr team", "1.Very systematic, New conception telephonic consultation, good follow up system, verity of cases, salary on time, team work etc", "Work for Ayurveda,dr.pratap sir,team work", "Everything is decided and controlled by non medicos, even mail regarding change in dose of churn is not send to doctors.... Clinic should work as a team of doctors..", "Increase case study discussion sessions .. stress release activities or session .. team or group outing .. ", "There is no participation of doctor in discussion,non_medicos related to sale team plan each and everything (even regarding related to doctor), our organization says doctors are most important part of jiva clinic,but it never reflect anywhere, we the doct", "As only chavan sir cannot do everything so a senior doctors team should be made to conduct tv shows, interviews etc. So it will increase our shows then calls and patients too.  For our employees there should be relaxation too, so picnic tours should be or", "I think there is 5 keys to make jiva a great place to work. 1. Employee input, 2 employee empowerment, 3. Excellent communication between managment and staff. 4A sense of family among team members, 5 recognition and appreciation to honor good work", "Paying more attention towards team effort and honest dedicated work. " ]
+                },
+                {
+                    "word": "relief",
+                    "frequency": 7,
+                    "responses": [ "Increase Ayurveda Medicines and work on No relief cases", "The extensive research done over the years in the organisation has enable the doctors to find the best suitable medicines for various disease, giving patients sustained relief and doctors an opportunity to help the mankind. ", "no relief cases of patients ", "On No relief cases work..", "I need Panchakarma and kshar sutra center here for better relief of patients.", "By giving much better relief in incurable disease", "For making more incentive they left Patient relief and stick on more selling" ]
+                }
+            ]
+        },
+        {
+            "theme": "HR & Policies",
+            "sentiment": 4.39,
+            "keywords": [
+                {
+                    "word": "hr",
+                    "frequency": 4,
+                    "responses": [ "hr staff is very spportive and helping nature", "Once i had some prob regarding my pg ... and every member of hr even my manager supported me quiet nicely", "For one work we have to go several of times to hr but they even dont care. Always kal aana kal hoga", "I was not satisfied with my last query, everyone to whom i talked in hr just tried to manipulate me rather justifying the process" ]
+                },
+                {
+                    "word": "target",
+                    "frequency": 2,
+                    "responses": [ "Not exactly unclear but according to me I need and request for one target one incentive scheme......", "At time of joining they said to me that i will get increment on the bases of performance , but thats not happened ! I gave my 100% , achieved all target for fr and sr and clinic target as well , got incentive since last 6 to 8 months till now , clinic als" ]
+                },
+                {
+                    "word": "helping",
+                    "frequency": 4,
+                    "responses": [ "hr staff is very spportive and helping nature", "Their polite nature r instant  helping nature", "They r helping in nature", "In any kind helping much in way" ]
+                },
+                {
+                    "word": "joining",
+                    "frequency": 2,
+                    "responses": [ "Initially my joining was for aliganj , Lucknow but during training they change my location hazaratganj without taking my consent As my profile was clinic doctor but still system not provided in clinic hazaratganj ", "At time of joining they said to me that i will get increment on the bases of performance , but thats not happened ! I gave my 100% , achieved all target for fr and sr and clinic target as well , got incentive since last 6 to 8 months till now , clinic als" ]
+                },
+                {
+                    "word": "change",
+                    "frequency": 3,
+                    "responses": [ "Initially my joining was for aliganj , Lucknow but during training they change my location hazaratganj without taking my consent As my profile was clinic doctor but still system not provided in clinic hazaratganj ", "Some changes are necessary with time and according to the need.", "Timely  notification about new change." ]
+                },
+                {
+                    "word": "time",
+                    "frequency": 5,
+                    "responses": [ "Some changes are necessary with time and according to the need.", "HR hardly provides proper solution, and never resolves issue on time.. Currently facing issue related to ESS since 3 months but not resolve yet", "For one work we have to go several of times to hr but they even dont care. Always kal aana kal hoga", "Sometime attitude ", "At time of joining they said to me that i will get increment on the bases of performance , but thats not happened ! I gave my 100% , achieved all target for fr and sr and clinic target as well , got incentive since last 6 to 8 months till now , clinic als" ]
+                },
+                {
+                    "word": "salary",
+                    "frequency": 1,
+                    "responses": [ "get salary on tym" ]
+                },
+                {
+                    "word": "listen",
+                    "frequency": 4,
+                    "responses": [ "They listen me properly and try to solve me quarries as soon as possible", "They r good listeners ", "They listen our problem give solution as well as posible", "Not listening properly" ]
+                },
+                {
+                    "word": "satisfied",
+                    "frequency": 2,
+                    "responses": [ "Ohhh sry m satisfied with HR departmnt", "I was not satisfied with my last query, everyone to whom i talked in hr just tried to manipulate me rather justifying the process" ]
+                }
+            ]
+        },
+        {
+            "theme": "Infrastructure",
+            "sentiment": 3.76,
+            "keywords": [
+                {
+                    "word": "quality tea",
+                    "frequency": 1,
+                    "responses": [ "Good quality tea, accommodation could be better" ]
+                }
+            ]
+        },
+        {
+            "theme": "Manager",
+            "sentiment": 4.40,
+            "keywords": [
+                {
+                    "word": "helping nature",
+                    "frequency": 3,
+                    "responses": [ "helping nature", "His helping nature but we are notice from beginning that all manegers even in faridabad all are ready to help for improvement our work", "His helping nature....... " ]
+                },
+                {
+                    "word": "nature",
+                    "frequency": 24,
+                    "responses": [ "His co-operative nature", "nature is very  co-operative and very calm ", "Very good nature", "Good nature", "helping nature", "Good nature with support", "Supporting nature", "Supporting nature nd always give appriciation to all team doctors ", "Suportive nature", "Helping nature and good motivation", "Good nature", "Supportive and well cooprative nature", "Supporting nature", "help full nature", "Helping nature.", "helpful nature, ready to resolve all issues during work ", "Coprative nature", "His helping nature but we are notice from beginning that all manegers even in faridabad all are ready to help for improvement our work", "His helping nature....... ", "Their positive nature n support", "Very coperetive and kind nature i never see him angry  or irritetive this is the best quality of him very kind nature ", "His friendly and cooperative nature", "They all have Helping nature, good command on their work and they try to motivate us whenever we need.", "He is of helpful nature and possess good management skills. " ]
+                },
+                {
+                    "word": "support",
+                    "frequency": 20,
+                    "responses": [ "Yes support", "They r helping doing there work also support us whenever we require but not role models ", "She is supportive.", "She supports every team member irrespective of the resources she has got.", "Good supporter ", "My manager Dr nishikant is very supportive ", "Manager support is very good", "Very supporting", "Good nature with support", "He is very Nobel support in every step", "He is very supportive and helpful", "Alwys supportng for all things ", "Good support", "Their positive nature n support", "Manager is good to support in over every problems, every one wants improve there performance and orders but for it not wants any force ", "Handling us very well in all time and support was gud frm manager side ", "He is so cooperative and supporting for me ", "My Managers name is Mr. Lokendra. He is very supportive and the thing i like the most that he never loose his coolness and always stay calm and he always encourage.", "His support and friendly attitude.", "I have no personal problem with my manager and he is very good and polite...but actually he have very less authorities. This should not be considerd as a complaint, he is always trying to support." ]
+                },
+                {
+                    "word": "time",
+                    "frequency": 10,
+                    "responses": [ "Sometimes not helps", "Sometimes patient need immediate panchakrma for good result kindly provide panchakarma facilities here..", "He wnats more and more tretment and appreciate some time ", "He giving proper aattention and sapport and time to time he give me sapport for work", "He is co-operative and helps us timely whenever and wherever required ", "Supporting sometime roundly...,some time create partiality", "Support in all time when we need a lil bit help ", "Handling us very well in all time and support was gud frm manager side ", "Very much cooperative & a decent  personality, helps in every issues time to time.", "Till the time When i achieved my target 100 everything was going good bcz i also want to fullfill my responsibilities towards the organization. But from last 3 months i lost my call backs due to leaves in the month of jan. Now m trying to get back my prev" ]
+                },
+                {
+                    "word": "manager",
+                    "frequency": 6,
+                    "responses": [ "Managers are good. But h r managers is very bad. Fals taking.", "My manager Dr nishikant is very supportive ", "Handling us very well in all time and support was gud frm manager side ", "She is not only my manager but like a Mom", "About our new manager no issue.. Actually recently it got changed", "I have no personal problem with my manager and he is very good and polite...but actually he have very less authorities. This should not be considerd as a complaint, he is always trying to support." ]
+                },
+                {
+                    "word": "helps",
+                    "frequency": 4,
+                    "responses": [ "She is like guide to who helps me in my hurdle", "Sometimes not helps", "He is co-operative and helps us timely whenever and wherever required ", "Very much cooperative & a decent  personality, helps in every issues time to time." ]
+                },
+                {
+                    "word": "supportive",
+                    "frequency": 4,
+                    "responses": [ "She is supportive.", "My manager Dr nishikant is very supportive ", "He is very supportive and helpful", "My Managers name is Mr. Lokendra. He is very supportive and the thing i like the most that he never loose his coolness and always stay calm and he always encourage." ]
+                },
+                {
+                    "word": "ready",
+                    "frequency": 4,
+                    "responses": [ "he is good and always ready to help", "helpful nature, ready to resolve all issues during work ", "His helping nature but we are notice from beginning that all manegers even in faridabad all are ready to help for improvement our work", "First i missed in. Typing last question thst appraisal practice is like joke now, so much practive being done before and it pre decided, u doing or bad it would be same , this proved this year, highest authority already no hope in increment it would be sa" ]
+                }
+            ]
+        },
+        {
+            "theme": "Others",
+            "sentiment": 2.82,
+            "keywords": [
+                {
+                    "word": "target",
+                    "frequency": 7,
+                    "responses": [ "Monthley target", "will vanish target pressure", "We know have to do dishes much...  In a mnth..  Bt there should not be much pressure   to do...  More than the given target", "Target becuase its very high and also sometime we are giving not proper treatment due to target ", "If i were given an opportunity then i will change one thing that in Fr and Sr target should b same for all doctors in all over india , so wr cn maintain equality , coz if m performing well then i will get more target year by year , so for me that should b", "Pressuring fr target", "About target" ]
+                },
+                {
+                    "word": "jiva",
+                    "frequency": 3,
+                    "responses": [ "I think jiva is best practitioner for me and other Doctors there is pt care is so exellent", "i think its great opportunity to me to work with jiva ", "I feel proud about working at jiva" ]
+                },
+                {
+                    "word": "doctors",
+                    "frequency": 4,
+                    "responses": [ "Freedom for treatment , respect given to doctors and knowledge", "Plz discuss with doctors too during making of new rules.", "If i were given an opportunity then i will change one thing that in Fr and Sr target should b same for all doctors in all over india , so wr cn maintain equality , coz if m performing well then i will get more target year by year , so for me that should b", "There should be one rule for all .like holidays must be provided on clinics too so that doctors can spend some quality time with their family too .when they  will be  happy and relaxed ,they could  give better results . And the quality of churnas needs im" ]
+                },
+                {
+                    "word": "happy",
+                    "frequency": 3,
+                    "responses": [ "I am happy to be the part if this organization ,which itself is the reason to be happy and contented.", " I am happy to work with Jiva ", "There should be one rule for all .like holidays must be provided on clinics too so that doctors can spend some quality time with their family too .when they  will be  happy and relaxed ,they could  give better results . And the quality of churnas needs im" ]
+                }
+            ]
+        },
+        {
+            "theme": "Settling In",
+            "sentiment": 4.22,
+            "keywords": [
+                {
+                    "word": "performance ehancement",
+                    "frequency": 1,
+                    "responses": [ "Company is aware n awake about our well being, needs, performance ehancement as well as approvals for holidays which we ask for even during rush days." ]
+                }
+            ]
+        },
+        {
+            "theme": "Support from Seniors",
+            "sentiment": 4.16,
+            "keywords": [
+                {
+                    "word": "clinic doctor",
+                    "frequency": "1",
+                    "responses": "I m clinic doctor "
+                },
+                {
+                    "word": "cannt satisfy",
+                    "frequency": "1",
+                    "responses": "My charak helps me but he cannt satisfy my questions n in other hand some charak are really vry gud they told their vagbhatt each n every things in vry easy manner"
+                }
+            ]
+        },
+        {
+            "theme": "Work Clarity",
+            "sentiment": 4.00,
+            "keywords": [
+                {
+                    "word": "vaghbhatt doctor",
+                    "frequency": 1,
+                    "responses": [ "I was a vaghbhatt doctor going to permorted to kashyap???? ????" ]
+                }
+            ]
+        }
+    ]
+}

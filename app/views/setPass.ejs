@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Xane | Weblink</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+    var check = function() {
+        if (document.getElementById('password').value ===
+            document.getElementById('confirm_password').value) {
+            document.getElementById('message').innerHTML = 'Passwords match!';
+        } else {
+            document.getElementById('message').innerHTML = 'Passwords do not match!';
+        }
+    }
+    </script>
+</head>
+
+<body style="margin: 0">
+    <div id='replacable' style="z-index: 1; position: absolute; background-color: #f2f2f2; width: 100vw; height: 100vh;"></div>
+    <div style="z-index: 2; position: absolute; top: 14vh; left: 0px; right: 0px; bottom: 0px; margin: auto;" class='second'>
+        <center>
+            <div style="display: block;"><img src="/xaneLogo1.png" /></div>
+        </center>
+        <br>
+        <br>
+        <br>
+        <center><span style="margin-right: 180px; display: block; font-family: Open Sans, Sans serif; font-size: 25px; color: rgba(0,0,0,0.7);">Set Password</span></center>
+        <br>
+        <br>
+        <center>
+            <form>
+                <input type="password" name="password" id="password" onkeyup="check();" style="display: block; width: 260px; height: 40px; background: #fff; box-shadow:  0px 1px 4px rgba(0,0,0,0.25); border-radius: 30px;">
+                <br>
+                <input type="password" name="confirm_password" id="confirm_password" onkeyup="check();" style="display: block; width: 260px; height: 40px; background: #fff; box-shadow:  0px 1px 4px rgba(0,0,0,0.25); border-radius: 30px;">
+                <br>
+                <span style="display: block; font-family: Open Sans, sans-serif; font-size: 16px;color: rgba(0,0,0,0.7);" id="message"></span>
+                <button type="button" id="sub"  style="cursor: pointer; display: block; border: none; background: none; margin-left: 212px; margin-top: 10px;"><img src="/login.png"></button>
+            </form>
+        </center>
+    </div>
+    <script>
+        $("#sub").click(function(){
+            $.ajax({
+                url: `/auths/signup?type=password&action=set&email=<%= user.user_email %>&password=${$('#password').val()}`,
+                type: 'GET',
+                headers: {'x-origin': '3', 'x-version': '1'}
+            }).done((result) => {
+                // window.location = "http://web.xane.ai";
+                document.getElementsByTagName('body')[0].innerHTML = result;
+            }).fail((err) => {
+                alert('something went wrong');
+            })
+        });
+    </script>
+</body>
+
+</html>
